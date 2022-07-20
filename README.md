@@ -23,5 +23,6 @@ Here you can find some of the projects I worked on while studying in [Universit√
 
 
 <!-- [![](https://github-readme-stats.vercel.app/api?username=malborroni&show_icons=true&include_all_commits=true&theme=vue)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=malborroni&theme=vue)]()
- -->
+-->
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TStrada&theme=vue)]()
+
