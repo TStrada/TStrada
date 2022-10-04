@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Tommaso and I am a Data Science student at [Università degli Studi di Milano-Bicocca](https://www.unimib.it/)!
 Here you can find some of the projects I worked on.
 
-&nbsp;&nbsp;• Main interests: _Data Science_, _Computer Science, _Social Media Analysis_;<br>
+&nbsp;&nbsp;• Main interests: _Data Science_, _Computer Science_, _Social Media Analysis_, _Signal&Image Data Management;<br>
 &nbsp;&nbsp;• Background: Bachelor's Degree in _Economics and Business Administration_.
 
 
